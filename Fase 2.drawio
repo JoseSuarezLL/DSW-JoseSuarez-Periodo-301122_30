@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-03-08T04:06:05.966Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="nXZWGPtyaFrZD9an5_CG" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-09T04:17:14.466Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="xAERaP98cHdCGl_3_cgM" version="21.0.2" type="github">
   <diagram name="Página-1" id="umsXanYTFkSCcars_-Vj">
-    <mxGraphModel dx="614" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="614" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="TVY8Nx6I0VkV87Rxp40z-1" value="" style="strokeWidth=2;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" parent="1" vertex="1">
-          <mxGeometry x="70" y="145" width="680" height="440" as="geometry" />
+          <mxGeometry x="70" y="145" width="680" height="485" as="geometry" />
         </mxCell>
         <mxCell id="TVY8Nx6I0VkV87Rxp40z-2" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" parent="TVY8Nx6I0VkV87Rxp40z-1" vertex="1">
           <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
@@ -16,29 +16,35 @@
         <mxCell id="TVY8Nx6I0VkV87Rxp40z-4" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Box Model&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=7;perimeterSpacing=6;fontStyle=1;fontSize=25;" parent="TVY8Nx6I0VkV87Rxp40z-1" vertex="1">
           <mxGeometry x="270" y="120" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AhncK0DwaHB6xmEj2pgm-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;" vertex="1" parent="TVY8Nx6I0VkV87Rxp40z-1">
+        <mxCell id="AhncK0DwaHB6xmEj2pgm-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;" parent="TVY8Nx6I0VkV87Rxp40z-1" vertex="1">
           <mxGeometry x="10" y="190" width="650" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AhncK0DwaHB6xmEj2pgm-2" value="Inicio" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;whiteSpace=wrap;" vertex="1" parent="AhncK0DwaHB6xmEj2pgm-1">
+        <mxCell id="AhncK0DwaHB6xmEj2pgm-2" value="Inicio" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;whiteSpace=wrap;" parent="AhncK0DwaHB6xmEj2pgm-1" vertex="1">
           <mxGeometry width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AhncK0DwaHB6xmEj2pgm-3" value="Tema Seleccionado" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;whiteSpace=wrap;" vertex="1" parent="AhncK0DwaHB6xmEj2pgm-1">
+        <mxCell id="AhncK0DwaHB6xmEj2pgm-3" value="Tema Seleccionado" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;whiteSpace=wrap;" parent="AhncK0DwaHB6xmEj2pgm-1" vertex="1">
           <mxGeometry x="130" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AhncK0DwaHB6xmEj2pgm-4" value="MOCKUP" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;whiteSpace=wrap;" vertex="1" parent="AhncK0DwaHB6xmEj2pgm-1">
+        <mxCell id="AhncK0DwaHB6xmEj2pgm-4" value="MOCKUP" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;whiteSpace=wrap;" parent="AhncK0DwaHB6xmEj2pgm-1" vertex="1">
           <mxGeometry x="310" width="210" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AhncK0DwaHB6xmEj2pgm-5" value="Acerca de" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;whiteSpace=wrap;" vertex="1" parent="AhncK0DwaHB6xmEj2pgm-1">
+        <mxCell id="AhncK0DwaHB6xmEj2pgm-5" value="Acerca de" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;whiteSpace=wrap;" parent="AhncK0DwaHB6xmEj2pgm-1" vertex="1">
           <mxGeometry x="520" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AhncK0DwaHB6xmEj2pgm-8" value="&lt;h1&gt;Política de privacidad&lt;/h1&gt;&lt;p&gt;Copyright&amp;nbsp;® 2023 UNAD. Todos los derechos reservados.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="TVY8Nx6I0VkV87Rxp40z-1">
-          <mxGeometry x="144" y="325" width="400" height="75" as="geometry" />
+        <mxCell id="AhncK0DwaHB6xmEj2pgm-8" value="&lt;h1&gt;Política de privacidad&lt;/h1&gt;&lt;p&gt;Copyright&amp;nbsp;® 2023 UNAD. Todos los derechos reservados.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" parent="TVY8Nx6I0VkV87Rxp40z-1" vertex="1">
+          <mxGeometry x="144" y="369" width="400" height="75" as="geometry" />
         </mxCell>
         <UserObject label="Ultima actualización &lt;br&gt;%date{ddd mmm dd yyyy HH:MM:ss}%" placeholders="1" id="AhncK0DwaHB6xmEj2pgm-11">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="TVY8Nx6I0VkV87Rxp40z-1">
-            <mxGeometry x="154" y="400" width="380" height="30" as="geometry" />
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="TVY8Nx6I0VkV87Rxp40z-1" vertex="1">
+            <mxGeometry x="154" y="444" width="380" height="30" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="Xsn-l6dkNgsLLaq6T6dP-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/48-bubbles/48/18.Pictures-Day-128.png" vertex="1" parent="TVY8Nx6I0VkV87Rxp40z-1">
+          <mxGeometry x="410" y="219" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Xsn-l6dkNgsLLaq6T6dP-2" value="CSS box model All HTML elements can be seen as boxes.&lt;br&gt;&lt;br&gt;&amp;nbsp;A CSS box model allows us to define the spaces between elements. Whether you want to add a border, set a margin, or add paddings between elements, you&#39;ll need to understand the box model.&lt;br&gt;Understanding this part will help you a lot when implementing your design." style="text;spacingTop=-5;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" vertex="1" parent="TVY8Nx6I0VkV87Rxp40z-1">
+          <mxGeometry x="50" y="245" width="340" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
